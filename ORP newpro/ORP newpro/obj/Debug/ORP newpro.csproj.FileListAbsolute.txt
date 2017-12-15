@@ -1,0 +1,17 @@
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\bin\Debug\ORP newpro.exe.config
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\bin\Debug\ORP newpro.exe
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\bin\Debug\ORP newpro.pdb
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form1.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form2.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form3.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form4.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form6.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form7.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Properties.Resources.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP newpro.csproj.GenerateResource.Cache
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP newpro.csproj.CoreCompileInputs.cache
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP newpro.exe
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP newpro.pdb
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.From5.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP_newpro.Form8.resources
+C:\Users\พีท\Documents\ORP newpro\ORP newpro\obj\Debug\ORP newpro.csprojResolveAssemblyReference.cache
